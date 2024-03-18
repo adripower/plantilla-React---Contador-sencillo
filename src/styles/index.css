@@ -21,3 +21,7 @@ span {
   
   
 }
+@font-face {
+  font-family:"predator";
+  src: url(/src/styles/PREDATOR.ttf) format("truetyped");
+}
