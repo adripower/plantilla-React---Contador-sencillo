@@ -33,25 +33,25 @@ num1 ++;
         num1 = 0;
         num2 ++;
         
-    }if(num2 > 9) {
+    }if(num2 > 5) {
         num2 = 0;
         num3 ++
-    }if (num3 > 9) {
+    }if (num3 > 5) {
         num3 = 0;
         mun4 ++;
-    }if (num4 > 9) {
+    }if (num4 > 5) {
         num4 = 0;
         num5 ++;
-    }if (num5 > 9){
+    }if (num5 > 5){
         num5 = 0;
         num6 ++;
-    }if (num6 > 9){
+    }if (num6 > 5){
         num6 = 0;
         num7 ++;
-    }if (num7 > 9){
+    }if (num7 > 5){
         num7 = 0;
         num8 ++;
-    }if (num8 > 9){
+    }if (num8 > 5){
         num8 = 0;
     
     }  

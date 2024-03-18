@@ -1,5 +1,5 @@
 import React from "react";
-import "/src/styles/index.css";
+
 
 
 
@@ -26,7 +26,7 @@ const Home = (props) => {
 				love!
 			</p>
 			<p>Cuando tenga tiempo pondre los bonus.</p>
-			<span style={{fontFamily:"predator"}}>{props.digito8}{props.digito7}{props.digito6}{props.digito5}{props.digito4}{props.digito3}{props.digito2}{props.digito1}</span>
+			<span style={{fontFamily:"PREDATOR"}}>{props.digito8}{props.digito7}{props.digito6}{props.digito5}{props.digito4}{props.digito3}{props.digito2}{props.digito1}</span>
 			
 
 		</div>

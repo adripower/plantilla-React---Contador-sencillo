@@ -10,6 +10,13 @@
 
 */
 
+@font-face {
+  font-family: "PREDATOR";
+  src: url("PREDATOR.ttf") format("truetype");
+
+  font-weight: normal;
+  font-style: normal;
+}
 
 
 
@@ -20,8 +27,4 @@ span {
   text-shadow: 2px 2px 2px #000000;
   
   
-}
-@font-face {
-  font-family:"predator";
-  src: url(/src/styles/PREDATOR.ttf) format("truetyped");
 }
